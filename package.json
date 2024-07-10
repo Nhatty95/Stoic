@@ -1,13 +1,13 @@
 {
   "name": "stoic",
   "version": "1.0.0",
-  "description": "",
+  "description": "My ban monitoring bot?",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js",
+    "build": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nhatty95",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.15.3"
