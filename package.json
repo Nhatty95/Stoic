@@ -1,15 +1,10 @@
-"scripts": {
-  "start": "node index.js",
-  "test": "echo \"Error: no test specified\" && exit 1"
-}
-
 {
   "name": "stoic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node index.js",
   },
   "keywords": [],
   "author": "",
@@ -18,6 +13,5 @@
     "discord.js": "^14.15.3"
   }
 }
-"scripts": {
-  "build": "npm run build"
-}
+
+
